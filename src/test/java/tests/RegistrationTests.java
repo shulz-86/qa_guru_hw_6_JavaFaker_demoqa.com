@@ -1,7 +1,7 @@
 package tests;
 
 import org.junit.jupiter.api.Test;
-import testsData.TestsData;
+import testsdata.TestsData;
 
 public class RegistrationTests extends TestBase {
 
